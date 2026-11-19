@@ -18,9 +18,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: 'Mookho Fuma | Film Production',
+  title: 'TRC Personnel',
   description:
-    'Explore the film, television, documentary, and creative production portfolio of Mookho Fuma.',
+    'A comprehensive register of personnel qualifications and funding partners for the TRC project.',
 };
 
 export default function RootLayout({
